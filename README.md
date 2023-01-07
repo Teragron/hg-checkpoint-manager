@@ -17,6 +17,7 @@ You can install these dependencies using pip:
 pip install huggingface_hub shutil slugify
 ```
 
+https://colab.research.google.com/drive/1VX4nIDcfgQh0tGp64Ygkk6Fti6Zi9Udq?usp=sharing
 
 ## Usage
 
