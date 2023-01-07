@@ -21,7 +21,7 @@ https://colab.research.google.com/drive/1VX4nIDcfgQh0tGp64Ygkk6Fti6Zi9Udq?usp=sh
 
 ## Usage
 
-To use the scripts in this repository, you will need to provide your own Hugging Face API access token. You can obtain a token by following the instructions [here] (https://huggingface.co/docs/hub/security-tokens)
+To use the scripts in this repository, you will need to provide your own Hugging Face API access token. You can obtain a token by following the instructions [here](https://huggingface.co/docs/hub/security-tokens)
 
 Once you have your access token, you can use the scripts in this repository to perform various tasks, such as downloading a checkpoint file from the Hugging Face model repository or uploading a checkpoint file to a new repository.
 
