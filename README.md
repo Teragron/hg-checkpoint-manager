@@ -1,5 +1,3 @@
-# hg-checkpoint-manager
-
 # hf-checkpoint-manager
 
 This repository contains scripts and utilities for managing checkpoint files from the Hugging Face model repository. It includes tools for downloading, organizing, and uploading checkpoint files, as well as scripts for working with the Hugging Face API to automate these tasks.
